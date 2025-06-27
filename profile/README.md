@@ -1,5 +1,5 @@
 <p align="center">
-  <samp><br>
+  <samp>
   Welcome to <b>Cometium</b><br>
   An open-source project focused on building stupid-fast, self-hosted software.<br>
   No black boxes. No vendor lock-in. Just fast, lightweight tools you control completely.<br>
